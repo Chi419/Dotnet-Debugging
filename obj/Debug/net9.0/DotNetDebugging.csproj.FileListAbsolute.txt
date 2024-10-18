@@ -1,0 +1,14 @@
+D:\Business Central Projects\Chiranga\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.exe
+D:\Business Central Projects\Chiranga\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.deps.json
+D:\Business Central Projects\Chiranga\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.runtimeconfig.json
+D:\Business Central Projects\Chiranga\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.dll
+D:\Business Central Projects\Chiranga\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.pdb
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfo.cs
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.dll
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\refint\DotNetDebugging.dll
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.pdb
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.genruntimeconfig.cache
+D:\Business Central Projects\Chiranga\DotNetDebugging\obj\Debug\net9.0\ref\DotNetDebugging.dll
